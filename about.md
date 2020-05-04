@@ -7,6 +7,7 @@ permalink: /about/
 ### Contact me
 
 [pauloneto913@gmail.com](mailto:pauloneto913@gmail.com)
+
 +5541988369906
 
 
