@@ -5,7 +5,6 @@ permalink: /about/
 ---
 
 Hometown: Curitiba, Brazil
-
 pauloneto913@gmail.com  
 [LinkedIn profile](https://linkedin.com/in/pauloneto94)  
 
