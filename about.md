@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hometown: Curitiba, Brazil
+pauloneto913@gmail.com  
+[LinkedIn profile](https://linkedin.com/in/pauloneto94)  
 
-### More Information
+## About
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Proactive, curious and self-driven, always looking to be on top of the latest technologies. Seeking growing companies with ideas to increasingly innovate the connected world. Always looking for improvement at work and in search of professional growth within the company. 
