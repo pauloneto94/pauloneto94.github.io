@@ -15,4 +15,4 @@ Proactive, curious and self-driven, always looking to be on top of the latest te
 
 [pauloneto913@gmail.com](mailto:pauloneto913@gmail.com)
 
-[+55 (41) 98836-9906](tel:+5541988369906)
+[+55 (41)98836-9906](tel:+5541988369906)
