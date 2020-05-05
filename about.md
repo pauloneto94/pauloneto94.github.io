@@ -42,7 +42,7 @@ Proactive, curious and self-driven, always looking to be on top of the latest te
 * Period & location: 2018/05 - 2018/12 - Inpro Electric / Volkswagen, Curitiba, Brazil
 * Industry: Automobile
 * Activity: Development & Maintenance of Volkswagen TCROSS production line
-* Technologies: Siemens PLC, Ladder, STL, network configuration, IHM screens
+* Technologies: Siemens PLC, Ladder, STL, Network Configuration, IHM Screens
 
 ### Technic Assistant Engineer - 1 year 3 months
 
