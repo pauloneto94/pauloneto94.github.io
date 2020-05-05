@@ -17,7 +17,15 @@ Proactive, curious and self-driven, always looking to be on top of the latest te
 * Internet of Things: MQTT, CoAP
 * Blockchain: Ethereum, Truffle, Brownie, Solidity
 * Other Technologies: Git, Maven, Hibernate, Jpa, JUnit, Matlab, C++, Linux
-* Network: Local, Wireless, Structured Cabing, Routers and Switches
+
+## Education
+
+### Graduation
+* Control and System Engineer, at "Pontifícia Universidade Católica do Paraná", in Curitiba-BR
+
+### Post-Graduation
+* Internet of Things, at "Universidade Tecnológica Federal do Paraná", in Curitiba-BR
+* Nanodegree Data Science Fundamentals, at "Udacity"
 
 ## Contact me
 
