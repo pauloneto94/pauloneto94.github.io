@@ -21,11 +21,11 @@ Proactive, curious and self-driven, always looking to be on top of the latest te
 ## Education
 
 ### Graduation
-* Control and System Engineer, at "Pontifícia Universidade Católica do Paraná", in Curitiba-BR
+* Control and System Engineer - Pontifícia Universidade Católica do Paraná - Curitiba-BR
 
 ### Post-Graduation
-* Internet of Things, at "Universidade Tecnológica Federal do Paraná", in Curitiba-BR
-* Nanodegree Data Science Fundamentals, at "Udacity"
+* Internet of Things - Universidade Tecnológica Federal do Paraná - Curitiba-BR
+* Nanodegree Data Science Fundamentals - Udacity
 
 ## Contact me
 
