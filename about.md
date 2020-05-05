@@ -35,7 +35,7 @@ Proactive, curious and self-driven, always looking to be on top of the latest te
 * Period & location: 2019/01 - present - Wipro Technologies / Mastercard, Curitiba, Brazil
 * Industry: Financial Authentication / Identity
 * Activity: Development & Maintenance of EMVCo v2 Smart Interface Server
-* Technologies: Java, Spring, Maven, Jenkins, Angular, Splunk, shell scripting in RHEL (Linux)
+* Technologies: Java, Spring, Maven, Jenkins, Angular, Splunk, Shell Scripting
 
 ### Industrial Programmer - 8 months
 
