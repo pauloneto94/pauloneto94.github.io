@@ -44,7 +44,7 @@ Proactive, curious and self-driven, always looking to be on top of the latest te
 * Activity: Development & Maintenance of Volkswagen TCROSS production line
 * Technologies: Siemens PLC, Ladder, STL, Network Configuration, IHM Screens
 
-### Technic Assistant Engineer - 1 year 3 months
+### Technical Assistant Engineer - 1 year 3 months
 
 * Period & location: 2017/02 - 2018/05 - Intertechne Consultores, Curitiba, Brazil
 * Industry: Hydropower
