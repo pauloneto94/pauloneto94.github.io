@@ -36,14 +36,14 @@ Proactive, curious and self-driven, always looking to be on top of the latest te
 * Activity: Development & Maintenance of EMVCo v2 Smart Interface Server
 * Technologies: Java, Spring, Maven, Jenkins, Angular, Splunk, shell scripting in RHEL (Linux)
 
-### Programmer - 8 months
+### Industrial Programmer - 8 months
 
 * Period & location: 2018/05 - 2018/12 - Inpro Electric / Volkswagen, Curitiba, Brazil
 * Industry: Automobile
 * Activity: Development & Maintenance of Volkswagen TCROSS production line
 * Technologies: Siemens PLC, Ladder, STL, network configuration, IHM screens
 
-### Technic Assistant - 1 year 3 months
+### Technic Assistant Engineer - 1 year 3 months
 
 * Period & location: 2017/02 - 2018/05 - Intertechne Consultores, Curitiba, Brazil
 * Industry: Hydropower
@@ -75,6 +75,6 @@ Proactive, curious and self-driven, always looking to be on top of the latest te
 
 ## Contact me
 
-[pauloneto913@gmail.com](mailto:pauloneto913@gmail.com)
+### [pauloneto913@gmail.com](mailto:pauloneto913@gmail.com)
 
-[+55 (41)98836-9906](tel:+5541988369906)
+### [+55 (41)98836-9906](tel:+5541988369906)
