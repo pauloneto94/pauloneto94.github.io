@@ -29,7 +29,14 @@ Proactive, curious and self-driven, always looking to be on top of the latest te
 
 ## Professional Experiences
 
-### System Analyst Trainee - Current job since January, 2019
+### Full Stack Developer - Current job since July, 2020
+
+* Period & location: 2020/07 - present - Fohat, Remote
+* Industry: Energy Intelligence
+* Activity: Development of energy intelligence platforms
+* Technologies: Python, Django, Auth0, Javascript, React, Docker
+
+### System Analyst Trainee - 1 year 4 months
 
 * Period & location: 2019/01 - present - Wipro Technologies / Mastercard, Curitiba, Brazil
 * Industry: Financial Authentication / Identity
