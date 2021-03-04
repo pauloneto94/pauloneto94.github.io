@@ -8,8 +8,8 @@ Proactive, curious and self-driven, always looking to be on top of the latest te
 
 ## Skills
 
-* Back-end development: Java & Spring Boot, Python & Flask (REST Api)
-* Front-end web development: Angular
+* Back-end development: Java & Spring Boot, Python & Flask (REST Api), Django
+* Front-end web development: Angular, Javascript, React
 * Front-end app development: Flutter
 * Database: SQL, Firebase
 * DevOps: Docker, Kubernetes, PCF
